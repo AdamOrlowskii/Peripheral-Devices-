@@ -1,0 +1,3 @@
+[submodule "sound-card"]
+	path = sound-card
+	url = https://github.com/AdamOrlowskii/sound-card.git
